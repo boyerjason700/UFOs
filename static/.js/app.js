@@ -33,7 +33,7 @@ function handleClick() {
 
     // Check to see if a date was entered and filter the
     // data using that date.
-    id (date) {
+    if (date) {
         // Apply `filter` to the table data to only keep the
         // rows where the `datetime` value matches the filter value
         filteredData = filteredData.filter(row => row.datetime === date);
