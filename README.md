@@ -20,5 +20,6 @@ Using a javascript file with existing UFO sighting data, we will display the dat
 <br/>
 
 # Results
+
 # Summary
 
