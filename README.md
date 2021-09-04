@@ -20,6 +20,20 @@ Using a javascript file with existing UFO sighting data, we will display the dat
 <br/>
 
 # Results
+When a user first views the webpage, all information in the table is displayed.  The user can then filter down the table results using the five catagories to filter.  As one filter is entered, the data in the table is reduced down to contain those items that match the input criteria.  The table can be further refined by adding in additional filters. 
+<p align="center">
+  <img height= 250 width= 300 src="https://user-images.githubusercontent.com/74840026/132104104-ad42c69f-10b8-4dbb-9fe5-b1976d3efa9b.png">
+  <img height= 250 width= 300 src="https://user-images.githubusercontent.com/74840026/132104083-5df2a844-830f-4404-9e76-b7ddda07dd75.png">
+  <img height= 250 width= 300 src="https://user-images.githubusercontent.com/74840026/132104092-80b15ad8-753d-4e6b-8e3d-4ca128ca04a1.png">
+</p>
+When all of the filters have been cleared out, the table again shows the complete data set.
 
 # Summary
+[UFO Finder](https://boyerjason700.github.io/UFOs/)
 
+One drawback from this code is that values must be entered in as they appear in the table(capatilization).  Entering "US" will yeild no results.  
+
+The code can be improved in multiple ways:
+- Accepting upper or lower case values
+- Adding drop down menus for defined inputs
+- Adding links in table to reference each sighting-article or pictures
