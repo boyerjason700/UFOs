@@ -37,3 +37,7 @@ The code can be improved in multiple ways:
 - Accepting upper- or lower-case values
 - Adding drop down menus for defined inputs
 - Adding links in table to reference each sighting-article or pictures
+
+# 
+#### Contact
+E-mail: boyerjason700@gmail.com
